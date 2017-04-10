@@ -2,5 +2,3 @@
 - OkHttp
 - Rxjava
 - Glide
-
-
